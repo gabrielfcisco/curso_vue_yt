@@ -1,7 +1,8 @@
 const MyNameApp = {
   data() {
     return {
-      name: "Matheus"
+      name: "Gabriel",
+      idade: 18,
     }
   }
 }
